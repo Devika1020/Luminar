@@ -40,6 +40,45 @@
     transform: scale(1.009);
     box-shadow: 0 4px 8px 0 rgba(125, 125, 125, 0.769), 0 6px 20px 0 rgba(255, 255, 255, 0.9);
 }
+.a11{
+    width: 100%;
+}
+.a12{
+ color: #5e068a;
+font-weight: 500; 
+font-size: 20px;
+}
+.a13{
+    font-weight: 600;
+    font-size: 12px;
+}
+.a15{
+    background-color: #5e068a;
+    font-size: 10px;
+    height: 35px;
+    width: 100px;
+}
+.a16{
+    width: 190px;
+    height: 50px;
+    color: #5e068a;
+    font-weight: 600;
+    background-color: transparent;
+    border-radius: 150px;
+    border: 2px solid #5e068a ;
+}
+
+.a16:hover{
+    background-color: #5e068a;
+    color: white;
+}
+.a18:hover{
+    transform: scale(1.009);
+    box-shadow: 0 4px 8px 0 rgba(125, 125, 125, 0.769), 0 6px 20px 0 rgba(255, 255, 255, 0.9);
+}
+.a18,.a17{
+    transition: 0.5s;
+}
 @media(max-width:500px){
     #b2{
         margin-left: 80px;
