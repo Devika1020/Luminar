@@ -104,3 +104,36 @@ font-size: 20px;
         margin-bottom: -20px;
     }
 }
+.bb{
+    /* height: 500px; */
+}
+.pp{
+    text-decoration: none;
+    color: white;
+}
+.df{
+    list-style: none;
+}
+.ef{
+    list-style: none;
+
+}
+.kl{
+    list-style: none;
+}
+.g8{
+    font-weight: 700;
+}
+.g4{
+    color: black;
+    font-weight: 500;
+}
+
+@media(max-width:600px){
+    .g8{
+        text-align: center;
+    }
+}
+.bb{
+    border-left: rgb(167, 164, 164) 2px solid;
+}
